@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecNotePad</string>
+    <string name="empty_notes">Записей пока нет.\nНажмите + чтобы создать.</string>
+    <string name="add_note">Добавить запись</string>
+    <string name="hint_title">Заголовок записи</string>
+    <string name="hint_content">Текст записи...</string>
+    <string name="label_algorithm">Алгоритм:</string>
+</resources>
